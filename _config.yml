@@ -1,0 +1,5 @@
+title: "super-magpie"
+description: "High availability  and network topology specifications for yetone/magpie (Enterprise Distributed Edition)"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
